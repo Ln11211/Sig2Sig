@@ -44,3 +44,13 @@ Dataset is hosted on Kaggle.
 Kaggle dataset link:- https://www.kaggle.com/datasets/malyala11211/ofdmdataset-mehransoltani/data
 
 https://www.kaggle.com/datasets/malyala11211/mehran-multi-db/data
+
+# Notebooks
+
+The models are trained in kaggle. Notebook links:
+
+Sig2Sig trial 2:- https://www.kaggle.com/code/malyala11211/sig2sig-trial-2
+
+Sig2Sig (first version, no comments)- https://www.kaggle.com/code/malyala11211/sig2sig
+
+Sig2Sig Benchmarking :- https://www.kaggle.com/code/malyala11211/sig2sig-benchmarking
